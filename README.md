@@ -1,13 +1,10 @@
 # booking_tickets_practice
 
-A new Flutter project.
-
+Here is my first fullstack application for mobile phones:
 
 ![image](https://github.com/user-attachments/assets/86d40a62-149b-4988-9e41-236208a0bc25)
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
